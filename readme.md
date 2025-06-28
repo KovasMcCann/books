@@ -159,15 +159,4 @@ learn basic python scraping skills
     >
     Fast scraping is a bad practice that places a heavy burden on the web administrator’s servers, can land you in legal trouble, and is the numberone cause of scrapers getting blacklisted. Add delays to your scrapers and let them run overnight. Remember: Being in a rush to write programs or gather data is a sign of bad project management; plan ahead to avoid messes like this in the first place.
 
-### 编码 隐匿在计算机软硬件背后的语言 (Petzold-2012).pdf
-学习计算机是如何从电路搭建起来的，要点如下
-- 继电器
-- 振荡器
-- 触发器
-- 随机访问储存器
-- 机器码
-- 汇编语言
-- 晶体管
-- 集成电路
-- 磁介质储存器
 
